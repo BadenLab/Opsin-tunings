@@ -13,5 +13,6 @@ Find wavelength (in nm) for sought opsin template on Y axis, and extract data al
 - Linear (AllOpsin)
 - 1 log (AllOpsin1log)
 - 1.5 log (AllOpsin1_5log)
+- 
 Other scales can be derived from linear array. 
 
