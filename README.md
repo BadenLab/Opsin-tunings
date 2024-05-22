@@ -16,3 +16,8 @@ Find wavelength (in nm) for sought opsin template on Y axis, and extract data al
 
 Other scales can be derived from linear array. 
 
+### Example plots
+
+![Opsin heatmap](example_heatmap.png)
+
+![Opsin plot](example_plot.png)
